@@ -1,11 +1,11 @@
 body{
     color: white; 
-    background-image: url("3.png");
+    background-image: url("a2.png");
     background-size: 100% ;
 }
 
 .head{
-    background-image: url("2.png");
+    background-image: url("a1.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
