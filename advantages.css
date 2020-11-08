@@ -45,11 +45,17 @@ li a {
 }
   
 li a:hover {
-    background-color: #28808bda;
+    background-color:  #dcf0f8b4;
 }
 
 .main{
     padding-left: 50px;
     padding-right: 50px;
     padding-top:10px;
+}
+
+.active{
+
+    background-color:#dcf0f8b4 ;
+    color:black;
 }
