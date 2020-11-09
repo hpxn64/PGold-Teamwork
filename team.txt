@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Evaluation</h1>
+
+<style>
+body {
+  background-image: url('pratical.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+
+<p>This research cannot collect a wealth of information, but it can lead to conversation about the place that artificial intelligence can hold in our lives. Artificial intelligence is not entirely attuned and so it is important for us to take a step together, as a society, to understand their scope to preserve the impact of it on social media. Hence the question arises, if Artificial Intelligence is allowed to exist, how ideally should it exist? The effect of Artificial Intelligence is all around the world. We interact with AI technology every single day from smartphones to social media sites. Marketers who use AI tools have an immense competitive advantage over the ones who do not utilize this technology. Hence, AI in social media not only increases the revenue of an organization, but it also provides a safer environment to its users. Together, the combination of Artificial Intelligence and social media are proving to be highly beneficial for companies. By studying user behaviours and finding habits for     their customers, development companies & marketing managers can use Artificial Intelligence services to reach their target audience easier. Something that will continue to change as the technology develops and evolves, the future is exciting for any business that’s harnessing it. A fundamental part of how you increase customer engagement, generate leads and grow your brand, without it, it’s clear that your influence within the network would not be as powerful. In conclusion, in order to develop computational models of intelligence, AI is at the heart of a new enterprise. The key idea is that, in terms of symbolic systems and symbolic operations which can be programmed on a digital computer, knowledge (human or otherwise) can be represented. There is a lot of controversy over whether such a properly designed machine would be a mind, or would merely mimic one, but AI scientists need not wait for that debate to end, nor for the hypothetical computer that might model all human intelligence. Aspects of intellectual actions have also been programmed as computer programmes and within very small domains, such as solving puzzles, drawing inferences, studying, and knowing language. It is a known fact that AI programs can outperform human experts, thus in this modern age the great challenge of AI is to find ways to reflect the awareness and understanding of common sense that enable individuals to carry out daily tasks such as having a broad discussion or making their way down a busy street. It may be feasible for traditional digital computers to execute such systems, or we as future experts of computers may need to create modern devices that can support the complexities of human thinking.</p>
+
+<label for="feedback">Feedback</label><br>
+<textarea id="feedback" name="feedback" rows="3" cols="20">
+</textarea>
+
+</body>
+</html>
